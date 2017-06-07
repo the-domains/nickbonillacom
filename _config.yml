@@ -1,0 +1,51 @@
+layout_spectrum: 0.4880949944411727
+typography_spectrum: 0.3671130052951192
+color:
+  brandStrength: 0.7714295530376384
+  lightness: 0.34816294235306433
+  saturation: 0.8806354839660891
+  rhythmicContrast: 0.38445607301806756
+  brandColors:
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Nick Bonilla Hosting
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b7b8918-24e5-4168-85bf-582d436109cd.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b7b8918-24e5-4168-85bf-582d436109cd.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Nicholas Bonilla Hosting
+description: Professional Hosting Services
+author:
+  name: Nick
+github: true
